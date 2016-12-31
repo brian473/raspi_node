@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/brian473/raspi_node/issues"
   },
-  "homepage": "https://github.com/brian473/raspi_node#readme"
+  "homepage": "https://github.com/brian473/raspi_node#readme",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "express": "^4.14.0",
+    "lirc_node": "0.0.4"
+  }
 }
