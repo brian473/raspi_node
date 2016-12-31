@@ -1,0 +1,19 @@
+{
+  "name": "raspi_node",
+  "version": "1.0.0",
+  "description": "some scripts for use with my raspi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian473/raspi_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brian473/raspi_node/issues"
+  },
+  "homepage": "https://github.com/brian473/raspi_node#readme"
+}
